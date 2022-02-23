@@ -1,0 +1,50 @@
+body{
+    font-family: 'Yeseva One', cursive;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+/* stay focused area  */
+
+.Stay-focused-area{
+    display: flex;
+    margin: 50px;
+}
+
+.year-color{
+    color: rgb(161, 54, 161);
+}
+
+#heading-border{
+    border-left: 5px solid;
+    border-image: linear-gradient(red, purple);
+    border-image-slice: 1;
+    font-size: 60px;
+    font-family: 'Yeseva One', cursive;
+    }
+    
+
+.Mission-2022{
+    color: rgb(201, 28, 201);
+}
+
+.buttons{
+    font-family: 'Poppins', sans-serif;
+    display: inline-block;
+    margin-top: 5px;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 15px;
+    background-image: linear-gradient(purple, tomato);
+}
+
+
+.flexible{
+    width: 50%
+}
+
+.flexible img{
+    width: 80%
+}
+
