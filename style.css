@@ -38,7 +38,7 @@ body{
     text-decoration: none;
     color: white;
     border-radius: 10px;
-    padding: 10px 15px;
+    padding: 10px 25px;
     background-image: linear-gradient(purple, tomato);
 }
 
@@ -87,4 +87,22 @@ body{
 
 #bg-light-green{
     background-color: rgb(199, 255, 199);
+}
+/* <!-- my mission 2022  -->  */
+
+.Develop-without-limits{
+    display: flex;
+    margin: 100px 70px;
+}
+
+#limit-image{
+    width: 90%
+}
+
+#develop-header{
+    font-size: 35px;
+}
+
+.half-width{
+    width: 200%;
 }
