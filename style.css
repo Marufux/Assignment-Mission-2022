@@ -13,7 +13,7 @@ body{
     margin-bottom: 100px;
 }
 
-.year-color{
+.font-color{
     color: rgb(161, 54, 161);
 }
 
@@ -79,6 +79,7 @@ body{
     padding: 20px 30px;
     margin-left: 80px;
     border-radius: 20px;
+    box-shadow: 5px 10px 20px #888888;
 }
 
 #bg-light-red{
@@ -106,3 +107,43 @@ body{
 .half-width{
     width: 200%;
 }
+
+.half-width p{
+    width: 90%;
+}
+
+/* my mission 2022  */
+
+.global-community{
+        display: flex;
+        margin: 100px 70px;
+    }
+/* my mission 2022  */
+
+/* <!-- coding for success  -->  */
+.coding-success{
+        display: flex;
+        margin: 100px 70px;
+}
+/* <!-- coding for success  -->  */
+
+/* footer  */
+
+footer{
+    background-color: black;
+    height: 200px;
+}
+
+footer h1{
+    padding-top: 50px;
+    font-style: italic;
+    text-align: center;
+    color: white;    
+}
+
+footer small{
+    display: block;
+    text-align: center;
+    color: white;
+}
+/* footer  */
